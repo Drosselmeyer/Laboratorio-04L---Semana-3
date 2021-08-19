@@ -1,0 +1,9 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\bin\Debug\Laboratorio 04L - Semana 3.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\bin\Debug\Laboratorio 04L - Semana 3.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\bin\Debug\Laboratorio 04L - Semana 3.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\obj\Debug\Laboratorio 04L - Semana 3.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\obj\Debug\Laboratorio_04L___Semana_3.Form1.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\obj\Debug\Laboratorio_04L___Semana_3.Properties.Resources.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\obj\Debug\Laboratorio 04L - Semana 3.csproj.GenerateResource.Cache
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\obj\Debug\Laboratorio 04L - Semana 3.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 04L - Semana 3\Laboratorio 04L - Semana 3\obj\Debug\Laboratorio 04L - Semana 3.pdb
